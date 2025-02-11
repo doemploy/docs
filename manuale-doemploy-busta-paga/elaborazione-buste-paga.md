@@ -60,5 +60,5 @@ Queste ore, moltiplicate per la tariffa contributiva, determineranno l'importo t
 
 ## Voci aggiuntive <a href="#voci-aggiuntive" id="voci-aggiuntive"></a>
 
-La sezione "Voci aggiuntive" consente di personalizzare la busta paga, inserendo ulteriori voci oltre a quelle predefinite. Puoi trovare esempi di utilizzo in sezioni come [TFR](https://manuale.doemploy.app/tfr#anitcipo-tfr) e [Ferie](https://manuale.doemploy.app/ferie#pagamento-delle-ferie-non-godute).\
+La sezione "Voci aggiuntive" consente di personalizzare la busta paga, inserendo ulteriori voci oltre a quelle predefinite. Puoi trovare esempi di utilizzo in sezioni come [TFR](t.f.r..md#anticipo-tfr) e [Ferie](eventi/ferie.md#pagamento-delle-ferie-non-godute).\
 Questa funzionalità ti offre la massima flessibilità nella personalizzazione delle buste paga
