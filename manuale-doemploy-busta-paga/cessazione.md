@@ -1,0 +1,6 @@
+---
+icon: user-xmark
+---
+
+# Cessazione
+
