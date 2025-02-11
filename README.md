@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: house
 layout:
   title:
     visible: true
@@ -13,11 +13,11 @@ layout:
     visible: true
 ---
 
-# Benvenuto
+# Home
 
-Benvenuto nel **Centro di Supporto di DoEmploy**. Qui troverai tutte le informazioni necessarie per gestire il lavoro domestico in modo semplice e conforme alla normativa.
+Benvenuto nella **Base di conoscenza** di DoEmploy. Qui troverai tutte le informazioni necessarie per gestire in autonomia il **rapporto di lavoro domestico** con la tua colf, badante, babysitter e altro ancora.
 
-Consulta le risorse disponibili per utilizzare al meglio il servizio e semplificare la gestione dei tuoi collaboratori domestici.
+Consulta le risorse disponibili per sfruttare al meglio i nostri servizi.
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Manuale DoEmploy Busta Paga</td><td><a href="manuale-doemploy-busta-paga/configurazione-lavoratore/">configurazione-lavoratore</a></td><td><a href="manuale-doemploy-busta-paga/elaborazione-buste-paga.md">elaborazione-buste-paga.md</a></td><td><a href="manuale-doemploy-busta-paga/eventi/">eventi</a></td><td><a href="manuale-doemploy-busta-paga/configurazione-datore-di-lavoro.md">configurazione-datore-di-lavoro.md</a></td><td><a href="manuale-doemploy-busta-paga/tredicesima.md">tredicesima.md</a></td><td><a href="manuale-doemploy-busta-paga/panoramica.md">panoramica.md</a></td><td><a href="manuale-doemploy-busta-paga/modulistica.md">modulistica.md</a></td></tr><tr><td>Guide contrattuale e fiscale</td><td><a href="basics/editor.md">editor.md</a></td><td><a href="basics/interactive-blocks.md">interactive-blocks.md</a></td><td><a href="basics/integrations.md">integrations.md</a></td><td><a href="basics/markdown.md">markdown.md</a></td><td></td><td></td><td></td></tr><tr><td>Centro account</td><td><a href="basics/interactive-blocks.md">interactive-blocks.md</a></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 

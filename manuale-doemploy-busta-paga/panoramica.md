@@ -10,13 +10,18 @@ Questo manuale ti aiuterà a navigare nell’app e a sfruttarne tutte le funzion
 
 ### Vai a
 
-{% content-ref url="configurazione-datore-di-lavoro.md" %}
-[configurazione-datore-di-lavoro.md](configurazione-datore-di-lavoro.md)
-{% endcontent-ref %}
+* [configurazione-datore-di-lavoro.md](configurazione-datore-di-lavoro.md "mention")
+* [configurazione-lavoratore](configurazione-lavoratore/ "mention")
+* [configurazione-lavoratore](configurazione-lavoratore/ "mention")
+  * [dati-anagrafici.md](configurazione-lavoratore/dati-anagrafici.md "mention")
+  * [elementi-contrattuali.md](configurazione-lavoratore/elementi-contrattuali.md "mention")
+  * [orario-di-lavoro.md](configurazione-lavoratore/orario-di-lavoro.md "mention")
+  * [varie-elementi.md](configurazione-lavoratore/varie-elementi.md "mention")
+  * [retribuzione.md](configurazione-lavoratore/retribuzione.md "mention")
+* [elaborazione-buste-paga.md](elaborazione-buste-paga.md "mention")
+* [eventi](eventi/ "mention")
+  *
+* asdf
+* af
 
-{% content-ref url="configurazione-lavoratore/" %}
-[configurazione-lavoratore](configurazione-lavoratore/)
-{% endcontent-ref %}
-
-
-
+\

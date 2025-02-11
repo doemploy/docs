@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Benvenuto](README.md)
+* [Home](README.md)
 
 ## Manuale DoEmploy Busta Paga
 
