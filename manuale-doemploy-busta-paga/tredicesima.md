@@ -6,10 +6,11 @@ icon: star-christmas
 
 Secondo [l'Art. 39 del CCNL](https://doemploy.app/it/ccnl?scroll=art39), in occasione del Natale, e comunque entro il mese di dicembre, spetta al lavoratore una mensilità aggiuntiva, pari alla retribuzione globale di fatto, in essa compresa l’indennità sostitutiva di vitto e alloggio
 
-La tredicesima può essere erogata in due modi:
+La tredicesima può essere erogata in 3 modi:
 
 * Tramite la busta paga di dicembre
 * Con una busta paga separata
+* [Mensile](tredicesima.md#erogazione-mensile)
 
 Per impostazione predefinita, la tredicesima viene erogata tramite la busta paga di dicembre. \
 Se desideri creare una busta paga separata, fai clic su **Nuova busta paga** (dopo quella di novembre) e poi su **Genera 13ª paga separata**.
