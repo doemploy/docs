@@ -46,7 +46,7 @@ Per aggiungere l'anticipazione, dalla schermata **Genera Busta Paga**,
 
 ## Erogazione mensile <a href="#erogazione-mensile" id="erogazione-mensile"></a>
 
-Per abilitare questa funzione, dalla schermata **Varie elementi** nei dettagli del dipendente, spunta la casella **Paga il rateo di TFR mensilmente**
+Per abilitare questa funzione, dalla schermata [Varie elementi](configurazione-lavoratore/varie-elementi.md) nei dettagli del dipendente, spunta la casella **Paga il rateo di TFR mensilmente**
 
 {% hint style="warning" %}
 La liquidazione mensile del TFR è una pratica discutibile e non direttamente consentita dal CCNL. Utilizzala a tua discrezione
