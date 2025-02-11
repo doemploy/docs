@@ -32,7 +32,7 @@ L’importo dei contributi è determinato da:
 2. **Quota oraria della tredicesima** → viene calcolata suddividendo la tredicesima su tutte le ore lavorate nell'anno.
 3. **Quota oraria di vitto e alloggio** (per i lavoratori conviventi) → il valore convenzionale del vitto e dell’alloggio viene suddiviso su base oraria.
 
-Se l'opzione **Trattenere i contributi** è attivata nella sezione [Varie elementi](configurazione-lavoratore/varie-elementi.md), saranno mostrati il calcolo e il trattenimento dei contributi a **carico del lavoratore** nella busta paga.
+Se l'opzione **Trattenere i contributi** è attivata nella sezione [Varie elementi](dati-lavoratore/varie-elementi.md), saranno mostrati il calcolo e il trattenimento dei contributi a **carico del lavoratore** nella busta paga.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 16.45.10.png" alt=""><figcaption></figcaption></figure>
 
