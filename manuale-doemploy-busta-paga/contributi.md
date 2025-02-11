@@ -28,9 +28,11 @@ L’importo dei contributi è determinato da:
 
 **Retribuzione oraria effettiva** si ottiene sommando:
 
-1. **Retribuzione Oraria Base** → l’importo pattuito nel contratto tra datore di lavoro e lavoratore.
-2. **Quota oraria della Tredicesima** → viene calcolata suddividendo la tredicesima su tutte le ore lavorate nell'anno.
-3. **Quota oraria di vitto e alloggio** (solo per i lavoratori conviventi) → il valore convenzionale del vitto e dell’alloggio viene suddiviso su base oraria per rappresentare il beneficio ricevuto.
+1. **Retribuzione oraria** →  Page base, più superminimo, indennità, scatti di anzianità e altri elementi ordinari.
+2. **Quota oraria della tredicesima** → viene calcolata suddividendo la tredicesima su tutte le ore lavorate nell'anno.
+3. **Quota oraria di vitto e alloggio** (per i lavoratori conviventi) → il valore convenzionale del vitto e dell’alloggio viene suddiviso su base oraria.
 
-DoEmploy calcola automaticamente l’importo esatto dei contributi se l’opzione **Trattenere i contributi** è attivata nella sezione [Varie elementi](configurazione-lavoratore/varie-elementi.md)
+Se l'opzione **Trattenere i contributi** è attivata nella sezione [Varie elementi](configurazione-lavoratore/varie-elementi.md), saranno mostrati il calcolo e il trattenimento dei contributi a **carico del lavoratore** nella busta paga.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 16.45.10.png" alt=""><figcaption></figcaption></figure>
 
