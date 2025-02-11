@@ -66,5 +66,4 @@ Se il lavoro viene svolto di domenica o durante le festività, il CCNL prevede u
 In caso di prestazione lavorativa durante un giorno festivo, nel registro eventi per quella data bisogna inserire **2 eventi:** un evento di festività e un altro evento di lavoro festivo.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-02-10 at 18.45.12.png" alt=""><figcaption><p>Esempio lavoro festivo in busta paga</p></figcaption></figure></div>
-
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Esempio lavoro festivo in busta paga</p></figcaption></figure>
