@@ -36,3 +36,6 @@ Se l'opzione **Trattenere i contributi** è attivata nella sezione [Varie elemen
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 16.45.10.png" alt=""><figcaption></figcaption></figure>
 
+Se l'opzione Trattenere i contributi è disattivata, nella sezione **Dati di lavoro** viene mostrato l'intero importo dei contributi a carico sia del lavoratore che del datore di lavoro. Questa opzione è utile nel caso in cui abbiate concordato con il lavoratore che il lordo sia uguale al netto.
+
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
