@@ -25,7 +25,7 @@
 * [T.F.R.](manuale-doemploy-busta-paga/t.f.r..md)
 * [Contributi](manuale-doemploy-busta-paga/contributi.md)
 * [Modulistica](manuale-doemploy-busta-paga/modulistica.md)
-* [Cessazione](manuale-doemploy-busta-paga/cessazione.md)
+* [Cessazione rapporto](manuale-doemploy-busta-paga/cessazione-rapporto.md)
 
 ## Basics
 
