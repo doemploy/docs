@@ -27,11 +27,13 @@
 * [Modulistica](manuale-doemploy-busta-paga/modulistica.md)
 * [Cessazione rapporto](manuale-doemploy-busta-paga/cessazione-rapporto.md)
 
-## Basics
+## Guide
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Come fare il contratto e la comunicazione all'INPS](guide/come-fare-il-contratto-e-la-comunicazione-allinps.md)
+
+## Account
+
+* [Periodo di prova](account/periodo-di-prova.md)
+* [Attivare l'abonamento](account/attivare-labonamento.md)
+* [Cancellare l'abonamento](account/cancellare-labonamento.md)
+* [Cancelare l'account](account/cancelare-laccount.md)
