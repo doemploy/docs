@@ -30,10 +30,12 @@
 ## Guide
 
 * [Come fare il contratto e la comunicazione all'INPS](guide/come-fare-il-contratto-e-la-comunicazione-allinps.md)
+* [Come fare una variazione del contratto](guide/come-fare-una-variazione-del-contratto.md)
+* [Come pagare i contributi all'INPS](guide/come-pagare-i-contributi-allinps.md)
+* [Come effettuare la risoluzione del rapporto](guide/come-effettuare-la-risoluzione-del-rapporto.md)
 
 ## Account
 
-* [Periodo di prova](account/periodo-di-prova.md)
-* [Attivare l'abonamento](account/attivare-labonamento.md)
-* [Cancellare l'abonamento](account/cancellare-labonamento.md)
-* [Cancelare l'account](account/cancelare-laccount.md)
+* [Attivare l'abbonamento](account/attivare-labbonamento.md)
+* [Cancellare l'abbonamento](account/cancellare-labbonamento.md)
+* [Eliminare l'account](account/eliminare-laccount.md)
