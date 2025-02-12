@@ -32,7 +32,7 @@
 * [Guida completa: dall'assunzione alla cessazione](guide/guida-completa-dallassunzione-alla-cessazione.md)
 * [Come fare il contratto e la comunicazione all'INPS](guide/come-fare-il-contratto-e-la-comunicazione-allinps.md)
 * [Come fare una variazione del contratto](guide/come-fare-una-variazione-del-contratto.md)
-* [Quando e come pagare i contributi all'INPS](guide/quando-e-come-pagare-i-contributi-allinps.md)
+* [Come versare i contributi INPS](guide/come-versare-i-contributi-inps.md)
 * [Come effettuare la risoluzione del rapporto](guide/come-effettuare-la-risoluzione-del-rapporto.md)
 
 ## Account

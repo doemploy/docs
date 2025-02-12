@@ -10,34 +10,27 @@ Questa guida fornisce una panoramica completa su tutti gli step fondamentali nel
 
 Il primo passo per assumere un lavoratore domestico è stipulare un contratto di assunzione e comunicarlo all’INPS. Questa operazione deve essere effettuata almeno 24 ore prima dell’inizio del rapporto di lavoro.
 
-{% content-ref url="come-fare-il-contratto-e-la-comunicazione-allinps.md" %}
-[come-fare-il-contratto-e-la-comunicazione-allinps.md](come-fare-il-contratto-e-la-comunicazione-allinps.md)
-{% endcontent-ref %}
-
-
+[Come fare il contratto e la comunicazione all'INPS](come-fare-il-contratto-e-la-comunicazione-allinps.md)
 
 ## 2. Elaborazione della busta paga (mensile)
 
 Ogni mese, il datore di lavoro deve fornire al lavoratore la busta paga, che riassume la retribuzione, le ore lavorate e le eventuali trattenute.
 
-🔗 **Guida alla gestione della busta paga**
+[Come fare la busta paga](../manuale-doemploy-busta-paga/elaborazione-buste-paga.md)
 
-### 3. Versamento dei contributi INPS (ogni trimestre)
+## 3. Versamento dei contributi INPS (ogni trimestre)
 
-I contributi previdenziali devono essere versati all’INPS ogni tre mesi entro le seguenti scadenze:
+I contributi previdenziali devono essere versati all’INPS ogni tre mesi.
 
-* **10 aprile** (per gennaio-marzo)
-* **10 luglio** (per aprile-giugno)
-* **10 ottobre** (per luglio-settembre)
-* **10 gennaio** (per ottobre-dicembre)
+[Come versare i contributi INPS](come-versare-i-contributi-inps.md)
 
-🔗 **Come versare i contributi INPS**
-
-### 4. Certificazione unica (entro il 31 marzo di ogni anno)
+## 4. Certificazione unica (entro il 31 marzo di ogni anno)
 
 La certificazione unica (CU) è un documento che il datore di lavoro deve rilasciare entro il 31 marzo di ogni anno, attestando i redditi corrisposti al lavoratore domestico nell’anno precedente.
 
-### 5. Aumenti retributivi e aggiornamenti
+La CU può essere generata tramite [Modulistica](../manuale-doemploy-busta-paga/modulistica.md) in pochi clic.
+
+## 5. Aumenti retributivi e aggiornamenti
 
 #### Adeguamento della retribuzione minima (ogni anno)
 
@@ -47,8 +40,10 @@ Ogni anno vengono aggiornati i minimi salariali per il lavoro domestico. È impo
 
 Il lavoratore ha diritto a un aumento della retribuzione pari al **4% della paga minima contrattuale** ogni due anni di anzianità presso lo stesso datore di lavoro.
 
-### 6. Cessazione del rapporto di lavoro
+Consulta [Retribuzione](../manuale-doemploy-busta-paga/dati-lavoratore/retribuzione.md) per modificare questi importi.
+
+## 6. Cessazione del rapporto di lavoro
 
 Quando il rapporto di lavoro termina, è necessario rispettare i termini di preavviso (salvo casi di licenziamento per giusta causa) e calcolare il TFR (trattamento di fine rapporto), ferie residue e mensilità aggiuntive.
 
-🔗 **Come gestire il termine del rapporto di lavoro**
+[Come fare la cessazione del rapporto di lavoro](../manuale-doemploy-busta-paga/cessazione-rapporto.md)
