@@ -40,7 +40,7 @@ Secondo il CCNL, i datori di lavoro anticiperanno, a richiesta del lavoratore e 
 Per aggiungere l'anticipazione, dalla schermata **Genera Busta Paga**,
 
 1. Clicca su **Ins. voce aggiuntiva**
-2. &#x20;Seleziona **Anticipo TFR**
+2. Seleziona **Anticipo TFR**
 3. Inserisci l'importo
 4. Clicca su **Conferma**
 
@@ -49,7 +49,7 @@ Per aggiungere l'anticipazione, dalla schermata **Genera Busta Paga**,
 Per abilitare questa funzione, dalla schermata [Varie elementi](dati-lavoratore/varie-elementi.md) nei dettagli del dipendente, spunta la casella **Paga il rateo di TFR mensilmente**
 
 {% hint style="warning" %}
-La liquidazione mensile del TFR è una pratica discutibile e non direttamente consentita dal CCNL. Utilizzala a tua discrezione
+La liquidazione mensile del TFR è una pratica discutibile e non direttamente consentita dal CCNL. Utilizzala a tua discrezione.
 {% endhint %}
 
 

@@ -31,7 +31,7 @@ Vedrai anche lo stato delle ferie in una sezione dedicata sulla busta paga
 ## Pagamento delle ferie non godute <a href="#pagamento-delle-ferie-non-godute" id="pagamento-delle-ferie-non-godute"></a>
 
 {% hint style="info" %}
-Secondo il CCNL, le ferie sono un diritto irrinunciabile del lavoratore e devono essere fruite nel corso del rapporto di lavoro; non possono essere monetizzate, salvo alla cessazione del rapporto
+Pratica discutibile. Secondo il CCNL, le ferie sono un diritto irrinunciabile del lavoratore e devono essere fruite nel corso del rapporto di lavoro; non possono essere monetizzate, salvo alla cessazione del rapporto.
 {% endhint %}
 
 Nel caso in cui desideri pagare separatamente le ore di ferie non godute, puoi farlo con la funzionalità delle voci aggiuntive.

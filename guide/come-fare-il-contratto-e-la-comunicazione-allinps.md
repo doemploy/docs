@@ -6,7 +6,7 @@ icon: file-signature
 
 ## Il contratto di assunzione
 
-IlIl contratto di lavoro domestico deve essere stipulato per iscritto e firmato da entrambe le parti. Per generare il contratto:
+Il contratto di lavoro domestico deve essere stipulato per iscritto e firmato da entrambe le parti. Per generare il contratto:
 
 1. Vai su **Documenti**
 2. Clicca su **Lettera di assunzione**
