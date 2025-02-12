@@ -29,7 +29,7 @@
 
 ## Guide
 
-* [Contratto di assunzione e la comunicazione all'INPS](guide/contratto-di-assunzione-e-la-comunicazione-allinps.md)
+* [Come fare il contratto e la comunicazione all'INPS](guide/come-fare-il-contratto-e-la-comunicazione-allinps.md)
 * [Come fare una variazione del contratto](guide/come-fare-una-variazione-del-contratto.md)
 * [Come pagare i contributi all'INPS](guide/come-pagare-i-contributi-allinps.md)
 * [Come effettuare la risoluzione del rapporto](guide/come-effettuare-la-risoluzione-del-rapporto.md)
