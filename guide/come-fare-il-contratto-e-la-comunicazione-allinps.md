@@ -14,7 +14,7 @@ Il contratto di lavoro domestico deve essere stipulato per iscritto e firmato da
 4. Segui i passaggi e inserisci i dati in modo accurato
 5. Clicca su **Completa**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Esempio contratto di lavoro </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Esempio contratto di lavoro </p></figcaption></figure>
 
 Dopo aver stampato e firmato il contratto, procedi con la comunicazione all’INPS.
 
