@@ -6,7 +6,7 @@ icon: list-ul
 
 Benvenuto nel manuale di DoEmploy busta paga per il lavoro domestico.
 
-Questo manuale ti aiuterà a navigare nell’app e a sfruttarne tutte le funzionalità. Se hai bisogno di ulteriore assistenza contatta il nostro supporto all’indirizzo support@doemploy.app
+Questo manuale ti aiuterà a navigare nell’app e tutte le funzionalità. Se hai bisogno di ulteriore assistenza contatta il nostro supporto all’indirizzo support@doemploy.app
 
 ### Vai a
 
@@ -28,8 +28,11 @@ Questo manuale ti aiuterà a navigare nell’app e a sfruttarne tutte le funzion
   * [permessi-e-assenze.md](eventi/permessi-e-assenze.md "mention")
 * [tredicesima.md](tredicesima.md "mention")
 * [t.f.r..md](t.f.r..md "mention")
-* [contributi.md](contributi.md "mention")
 * [modulistica.md](modulistica.md "mention")
 * [cessazione-rapporto.md](cessazione-rapporto.md "mention")
 
-\
+### Guide
+
+* [come-fare-il-contratto-e-la-comunicazione-allinps.md](../guide/come-fare-il-contratto-e-la-comunicazione-allinps.md "mention")
+* [guida-ai-contributi-come-versarli.md](../guide/guida-ai-contributi-come-versarli.md "mention")
+

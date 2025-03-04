@@ -1,5 +1,6 @@
 ---
 icon: percent
+hidden: true
 ---
 
 # Contributi
