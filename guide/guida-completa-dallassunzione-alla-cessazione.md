@@ -1,5 +1,6 @@
 ---
 icon: clipboard-question
+hidden: true
 ---
 
 # Guida completa: dall'assunzione alla cessazione
@@ -22,7 +23,7 @@ Ogni mese, il datore di lavoro deve fornire al lavoratore la busta paga, che ria
 
 I contributi previdenziali devono essere versati all’INPS ogni tre mesi.
 
-[Come versare i contributi INPS](come-versare-i-contributi-inps.md)
+[Come versare i contributi INPS](guida-ai-contributi-come-versarli.md)
 
 ## 4. Certificazione unica (entro il 31 marzo di ogni anno)
 
