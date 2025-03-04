@@ -4,7 +4,7 @@ icon: coins
 
 # Guida ai contributi: come versarli
 
-I contributi previdenziali e assistenziali sono obbligatori per i datori di lavoro domestico e garantiscono al lavoratore i diritti pensionistici, l’accesso all’indennità di malattia, maternità e disoccupazione.
+I contributi previdenziali e assistenziali sono obbligatori per i datori di lavoro domestico e garantiscono al lavoratore diritti pensionistici, accesso all’indennità di malattia, maternità e disoccupazione.
 
 ## **Chi deve versare i contributi?**
 
@@ -28,9 +28,11 @@ L’importo dei contributi è determinato da:
 
 **Retribuzione oraria effettiva** si ottiene sommando:
 
-1. **Retribuzione oraria** →  Page base, più superminimo, indennità, scatti di anzianità e altri elementi ordinari.
-2. **Quota oraria della tredicesima** → Viene calcolata suddividendo la tredicesima su tutte le ore lavorate nell'anno.
-3. **Quota oraria di vitto e alloggio** (per i lavoratori conviventi) → Il valore convenzionale del vitto e dell’alloggio viene suddiviso su base oraria.
+1. **Retribuzione oraria base** →  comprensiva di paga minima contrattuale, eventuale superminimo, indennità, scatti di anzianità e altri elementi retributivi ordinari;
+2. **Quota oraria della tredicesima** → calcolata dividendo l’importo della tredicesima per il totale delle ore lavorate nell'anno;
+3. **Quota oraria di vitto e alloggio** (per i lavoratori conviventi) → determinata in base ai valori convenzionali stabiliti annualmente.
+
+Il calcolo esatto dipende dalle tabelle contributive INPS, aggiornate annualmente
 
 ## Avviso di pagamento automatico
 
@@ -38,55 +40,61 @@ L’importo proposto automaticamente dall’INPS si basa su parametri standard, 
 
 Elementi come la Cassa Colf, gli straordinari, le assenze o gli adeguamenti della retribuzione annuale non vengono inclusi nel calcolo automatico.
 
-Per garantire un calcolo corretto, è necessario accedere al portale INPS e modificare l’importo prima della scadenza.
+Per assicurarsi che il bollettino sia corretto, il datore di lavoro deve accedere al portale INPS e modificare l’importo prima della scadenza.
 
-## Modificare il bollettino INPS&#x20;
+## Come modificare il bollettino INPS&#x20;
 
 {% stepper %}
 {% step %}
 ### Accedi al portale INPS
 
-Prima cosa e acceddere al portale web: [Pagamento contributi lavoratori domestici](https://serviziweb2.inps.it/PagamentiBollettiniLD/accessoUtente.do) e entrare nel servizio.
+Accedi al servizio online tramite il seguente link: [Pagamento contributi lavoratori domestici](https://serviziweb2.inps.it/PagamentiBollettiniLD/accessoUtente.do) e entra nel servizio.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Scegli il bolettino da modificare
+### Selezionare il bollettino da modificare
 
-Clicca sul Tab Bollettini -> Visualizza-Modifica -> Avanti&#x20;
+Dopo aver effettuato l’accesso, vai alla sezione **Bollettini**, seleziona **Visualizza Modifica**, quindi clicca su **Avanti**.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-13 at 10.41.05.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Apri il calcolo fatto dal DoEmploy&#x20;
+### Consultare il calcolo effettuato da DoEmploy&#x20;
 
-Dalla schermata Home cllica su Vedi il calcolco completo.
+Dalla schermata Home, nella sezione **Contributi** clicca su **Vedi il calcolo completo**.&#x20;
 
-Nell il report puoi trovare i dati che ti servarno per modificare il bolettino.
+Nel report troverai tutti i dati necessari per la modifica del bollettino.
 
 <figure><img src="../.gitbook/assets/image (61).png" alt="" width="449"><figcaption></figcaption></figure>
 
-Verifica la coretteza delle date. E importante notare che DoEmploy e un software del calcolo, e si basando sui date inserite dal utente e non e responsabile per dati inserite eronato o per calcoli eronati.&#x20;
+**Verifica attentamente la correttezza delle date e degli importi**.\
+DoEmploy è un software di supporto al calcolo e si basa sui dati inseriti dall’utente. Pertanto, non è responsabile di eventuali errori nei dati o nei calcoli effettuati.
 {% endstep %}
 
 {% step %}
-### Modifica i dati
+### Modificare i dati
 
-Modifica Ore retribuite a la retribuzione oraria, e i contributi di asseistenza contrattuale in base al calcolo dallo step precedente.
+In base ai dati riportati nel passo precedente, aggiorna il **numero di ore retribuite**, la **retribuzione oraria effettiva** e le **settimane lavorate**, se necessario.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>sadf</p></figcaption></figure>
+Nella sezione **Contributi di assistenza contrattuale**, seleziona **Codice organizzazione F2** e inserisci l’importo corrispondente.
 
-Dopo aver modificato i dati Clicca su Avanti
 
-Verifica di nuovo tutto e cllica su Confirma modifica
 
-#### Nel caso che si sono 2 bolettine
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-Nel caso in cui ci sono 2 bolettien, uno pe le settimane <= 24 e altro per le settimane > 24
+Dopo aver modificato i dati, clicca su **Avanti**, verifica nuovamente tutte le informazioni e conferma la modifica selezionando **Conferma modifica**.
 
-Clicca su Altro BOlettion, e compila il datti per il segondo bolettino in seguinza che
+#### **Nel caso di due bollettini**
+
+Nel caso in cui le settimane retribuite includano sia periodi di lavoro pari o inferiori a 24 ore settimanali, sia periodi con più di 24 ore settimanali, sarà necessario elaborare due bollettini distinti:
+
+* **Un bollettino** per le settimane lavorate con **≤ 24 ore settimanali**;
+* **Un altro bollettino** per le settimane lavorate con **> 24 ore settimanali**.
+
+Clicca su **Altro bollettino** e compila i dati per il secondo bollettino. La procedura è la stessa seguita per il primo bollettino, con la sola differenza che i dati inseriti variano in base alle ore lavorate.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.39.11 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -94,31 +102,30 @@ Clicca su Altro BOlettion, e compila il datti per il segondo bolettino in seguin
 {% step %}
 ### Pagamento
 
-Puoi sceliere stampare il avisso pagoPA o pagarlo diterattemente online.
+Puoi scegliere tra due modalità di pagamento:
 
-Per pagare il avisso di pagapmento online, seleziona i bolettini di interesse e clicca sull’immagine PAGA ONLINE pagoPA dopo  clica su Continua.
+1. **Stampa dell’avviso pagoPA**, da pagare presso uffici postali, sportelli bancari, tabaccherie o altri punti abilitati;
+2. **Pagamento online direttamente sul portale INPS**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.49.03.png" alt=""><figcaption><p>sddsfgsf</p></figcaption></figure>
+#### **Pagamento online**
 
-Dopo clicca su conferma e paga online
+1. Seleziona i bollettini da saldare;
+2. Clicca su **PAGA ONLINE pagoPA**, quindi su **Continua**;
+3. Conferma l’operazione selezionando **Conferma e paga online**;
+4. Sarai reindirizzato alla piattaforma pagoPA per completare il pagamento;
+5. Una volta effettuato il pagamento, potrai tornare sul sito INPS per scaricare la ricevuta.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.50.46.png" alt=""><figcaption><p>asdfsadf</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.49.03.png" alt=""><figcaption><p>Clicca su <strong>PAGA ONLINE pagoPA</strong>, quindi su <strong>Continua</strong></p></figcaption></figure>
 
-Ciccando su ‘Conferma e Paga Online’ l’utente visualizza una comunicazione che lo informa Inps /Portale dei Pagamenti/LD: Direzione Centrale Tecnologia Informatica e Innovazione 17 che sarà indirizzato sulla pagina Internet del sistema pagoPA fornito dalla società PagoPA S.p.A. dove può scegliere la modalità di pagamento, quelle al momento disponibili, e con chi pagare, i PSP al momento disponibili.
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.50.46.png" alt=""><figcaption><p>Conferma l’operazione selezionando <strong>Conferma e paga online</strong></p></figcaption></figure>
 
-A termine del pagamento avvenuto con successo, salvo buon fine dell'operazione di pagamento presso il PSP, si ritorna sul sito Inps per stampare la ricevuta di pagamento.
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Scaricare la ricevuta</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>asdfasdf</p></figcaption></figure>
-
-Cliccando su Stampa ricevuta, si può scaricare, in un file formato PDF, la ricevuta di pagamento (una parte per il datore di lavoro e una per il lavoratore), come nell’immagine, di seguito riportata.
+**Importante**: cliccando su **Stampa ricevuta**, potrai scaricare il documento in formato PDF.
 {% endstep %}
 {% endstepper %}
 
-Per ulteriori detagli su come funzione il sistma di pagamento cnotributi consula il manual del INPS: [https://serviziweb2.inps.it/PagamentiBollettiniLD/downloadManualeUtente.do](https://serviziweb2.inps.it/PagamentiBollettiniLD/downloadManualeUtente.do)
-
-
-
-
+Per maggiori dettagli sul sistema di pagamento dei contributi, consulta il **manuale ufficiale INPS** al seguente link: [https://serviziweb2.inps.it/PagamentiBollettiniLD/downloadManualeUtente.do](https://serviziweb2.inps.it/PagamentiBollettiniLD/downloadManualeUtente.do)
 
 
 
