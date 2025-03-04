@@ -6,7 +6,7 @@ icon: list-ul
 
 Benvenuto nel manuale di DoEmploy busta paga per il lavoro domestico.
 
-Questo manuale ti aiuterà a navigare nell’app e tutte le funzionalità. Se hai bisogno di ulteriore assistenza contatta il nostro supporto all’indirizzo support@doemploy.app
+Questo manuale ti aiuterà a navigare tra le funzioni dell'app. Se hai bisogno di ulteriore assistenza contatta il nostro supporto all'indirizzo e-mail: support@doemploy.app
 
 ### Vai a
 

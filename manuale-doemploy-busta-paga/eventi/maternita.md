@@ -14,6 +14,10 @@ Le lavoratrici domestiche, come colf e badanti, hanno diritto al congedo di mate
 4. Scegli **Maternità** come **Tipo congedo**
 5. Clicca su **Salva**
 
+{% hint style="info" %}
+È importante inserire l'evento di congedo per **ogni giorno** di **calendario**.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Es. Busta paga 1 mese maternità</p></figcaption></figure>
 
 ## **Come richiedere la maternità?**

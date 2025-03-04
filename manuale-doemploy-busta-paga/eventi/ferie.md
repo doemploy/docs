@@ -20,6 +20,10 @@ DoEmploy calcola le ferie in ore per impostazione predefinita. È possibile modi
 4. Inserisci il numero di ore
 5. Clicca su **Salva**
 
+{% hint style="info" %}
+Nel caso in cui le ferie siano **espresse in giorni**, è importante inserire l'evento di ferie per **ogni giorno** di **calendario.**
+{% endhint %}
+
 Vedrai il pagamento delle ferie godute con una voce separata sulla busta paga
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

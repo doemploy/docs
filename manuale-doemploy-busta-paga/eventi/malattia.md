@@ -18,6 +18,10 @@ Come stabilito [dall'Art. 27](https://doemploy.app/it/ccnl?scroll=art27) del CCN
 4. Scegli il **Tipo retribuzione**
 5. Clicca su **Salva**
 
+{% hint style="info" %}
+È importante inserire l'evento di malattia per **ogni giorno** di **calendario**.
+{% endhint %}
+
 ## **Tipo retribuzione**
 
 Come stabilito dal CCNL, i giorni di malattia, definiti come giorni di calendario, sono retribuiti nel modo seguente:
