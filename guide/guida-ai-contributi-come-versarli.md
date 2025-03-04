@@ -34,29 +34,13 @@ L’importo dei contributi è determinato da:
 
 ## Avviso di pagamento automatico
 
-L'INPS invia a tutti i datori di lavoro domestico gli avvisi di pagamento tramite pagoPA per il versamento dei contributi relativi ai trimestri in scadenza ([leggi di più sull'INPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.50061.pagamento-dei-contributi-al-lavoratore-domestico.html))
+L’importo proposto automaticamente dall’INPS si basa su parametri standard, **senza tenere conto** delle specifiche variazioni del periodo.
 
-Gli Avvisi di pagamento pagoPA includono il codice avviso, l'importo da versare, la scadenza per il pagamento e le istruzioni necessarie per effettuare il versamento.
+Elementi come la Cassa Colf, gli straordinari, le assenze o gli adeguamenti della retribuzione annuale non vengono inclusi nel calcolo automatico.
 
-
-
-{% hint style="info" %}
-
-{% endhint %}
-
-
-
-1. Portale web: [Pagamento contributi lavoratori domestici](https://serviziweb2.inps.it/PagamentiBollettiniLD/accessoUtente.do)
-2. App INPS Mobile (Servizi -> Lavoro domestico -> Pagamenti)
-3. App IO
+Per garantire un calcolo corretto, è necessario accedere al portale INPS e modificare l’importo prima della scadenza.
 
 ## Modificare il bollettino INPS&#x20;
-
-Nel caso in cui siano ciambiati il numelor delle ore settimanale e/o paga oraria efettiva questi cambiamenti devono essere riflettate nello boletino.
-
-Se invece sono intervenute variazioni nel rapporto di lavoro: numero ore lavorate, importo orario, periodi diversi da quelli comunicati (tutte le settimane oppure solo alcune del trimestre) o integrazione dell’importo con il contributo di assistenza contrattuale o di finanziamento al Inps /Portale dei Pagamenti/LD:  (C.ORG), potrà effettuare al momento le variazioni per un nuovo ricalcolo dei contributi da pagare cliccando sull’immagine Visualizza-Modifica e subito dopo Avanti per la verifica del calcolo e poi su  Conferma Modifica per confermare le modifiche e procedere con la generazione del nuovo bollettino ricalcolato.
-
-
 
 {% stepper %}
 {% step %}
@@ -76,11 +60,63 @@ Clicca sul Tab Bollettini -> Visualizza-Modifica -> Avanti&#x20;
 {% endstep %}
 
 {% step %}
-### Modificare le ore
+### Apri il calcolo fatto dal DoEmploy&#x20;
 
+Dalla schermata Home cllica su Vedi il calcolco completo.
 
+Nell il report puoi trovare i dati che ti servarno per modificare il bolettino.
+
+<figure><img src="../.gitbook/assets/image (61).png" alt="" width="449"><figcaption></figcaption></figure>
+
+Verifica la coretteza delle date. E importante notare che DoEmploy e un software del calcolo, e si basando sui date inserite dal utente e non e responsabile per dati inserite eronato o per calcoli eronati.&#x20;
+{% endstep %}
+
+{% step %}
+### Modifica i dati
+
+Modifica Ore retribuite a la retribuzione oraria, e i contributi di asseistenza contrattuale in base al calcolo dallo step precedente.
+
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>sadf</p></figcaption></figure>
+
+Dopo aver modificato i dati Clicca su Avanti
+
+Verifica di nuovo tutto e cllica su Confirma modifica
+
+#### Nel caso che si sono 2 bolettine
+
+Nel caso in cui ci sono 2 bolettien, uno pe le settimane <= 24 e altro per le settimane > 24
+
+Clicca su Altro BOlettion, e compila il datti per il segondo bolettino in seguinza che
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.39.11 (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Pagamento
+
+Puoi sceliere stampare il avisso pagoPA o pagarlo diterattemente online.
+
+Per pagare il avisso di pagapmento online, seleziona i bolettini di interesse e clicca sull’immagine PAGA ONLINE pagoPA dopo  clica su Continua.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.49.03.png" alt=""><figcaption><p>sddsfgsf</p></figcaption></figure>
+
+Dopo clicca su conferma e paga online
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-04 at 11.50.46.png" alt=""><figcaption><p>asdfsadf</p></figcaption></figure>
+
+Ciccando su ‘Conferma e Paga Online’ l’utente visualizza una comunicazione che lo informa Inps /Portale dei Pagamenti/LD: Direzione Centrale Tecnologia Informatica e Innovazione 17 che sarà indirizzato sulla pagina Internet del sistema pagoPA fornito dalla società PagoPA S.p.A. dove può scegliere la modalità di pagamento, quelle al momento disponibili, e con chi pagare, i PSP al momento disponibili.
+
+A termine del pagamento avvenuto con successo, salvo buon fine dell'operazione di pagamento presso il PSP, si ritorna sul sito Inps per stampare la ricevuta di pagamento.
+
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>asdfasdf</p></figcaption></figure>
+
+Cliccando su Stampa ricevuta, si può scaricare, in un file formato PDF, la ricevuta di pagamento (una parte per il datore di lavoro e una per il lavoratore), come nell’immagine, di seguito riportata.
 {% endstep %}
 {% endstepper %}
+
+Per ulteriori detagli su come funzione il sistma di pagamento cnotributi consula il manual del INPS: [https://serviziweb2.inps.it/PagamentiBollettiniLD/downloadManualeUtente.do](https://serviziweb2.inps.it/PagamentiBollettiniLD/downloadManualeUtente.do)
+
+
 
 
 
