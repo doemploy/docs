@@ -21,7 +21,7 @@ DoEmploy calcola le ferie in ore per impostazione predefinita. È possibile modi
 5. Clicca su **Salva**
 
 {% hint style="info" %}
-Nel caso in cui le ferie siano **espresse in giorni**, è importante inserire l'evento di ferie per **ogni giorno** di **calendario.**
+Nel caso in cui le ferie siano **espresse in giorni**, è importante inserire l'evento di ferie per giorno della settimana lavorativa (lunedì-sabato)
 {% endhint %}
 
 Vedrai il pagamento delle ferie godute con una voce separata sulla busta paga
