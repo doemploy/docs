@@ -15,7 +15,7 @@ Per generare il documento del contratto tramite DoEmploy:
 4. Segui i passaggi e inserisci i dati in modo accurato
 5. Clicca su **Completa**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Esempio contratto di lavoro </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Esempio contratto di lavoro </p></figcaption></figure>
 
 Dopo aver stampato e firmato il contratto, procedi con la comunicazione all’INPS.
 

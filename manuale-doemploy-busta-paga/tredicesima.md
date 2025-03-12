@@ -15,7 +15,7 @@ La tredicesima può essere erogata in 3 modi:
 Per impostazione predefinita, la tredicesima viene erogata tramite la busta paga di dicembre. \
 Se desideri creare una busta paga separata, fai clic su **Nuova busta paga** (dopo quella di novembre) e poi su **Genera 13ª paga separata**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Es. Busta paga tredicesima separata</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Es. Busta paga tredicesima separata</p></figcaption></figure>
 
 ## Maturazione[​](https://manuale.doemploy.app/tredicesima#maturazione) <a href="#maturazione" id="maturazione"></a>
 

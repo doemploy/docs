@@ -50,7 +50,7 @@ Per assicurarsi che il bollettino sia corretto, il datore di lavoro deve acceder
 
 Accedi al servizio online tramite il seguente link: [Pagamento contributi lavoratori domestici](https://serviziweb2.inps.it/PagamentiBollettiniLD/accessoUtente.do) e entra nel servizio.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -68,7 +68,15 @@ Dalla schermata Home, nella sezione **Contributi** clicca su **Vedi il calcolo c
 
 Nel report troverai tutti i dati necessari per la modifica del bollettino.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt="" width="449"><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="Web" %}
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Mobile" %}
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 **Verifica attentamente la correttezza delle date e degli importi**.\
 DoEmploy è un software di supporto al calcolo e si basa sui dati inseriti dall’utente. Pertanto, non è responsabile di eventuali errori nei dati o nei calcoli effettuati.
