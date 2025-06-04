@@ -16,7 +16,7 @@ In questa sezione è possibile configurare diverse impostazioni, di solito lasci
 {% endtab %}
 {% endtabs %}
 
-## &#x20;<a href="#calcolare-le-ferie" id="calcolare-le-ferie"></a>
+## Calcolare le Ferie​​
 
 Se questa opzione è attivata, le ferie saranno calcolate e riportate in una sezione dedicata del cedolino paga.
 
