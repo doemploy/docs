@@ -21,13 +21,13 @@ icon: file-signature
 
 La paga base iniziale e i contributi saranno determinati in base all'anno della data di assunzione.
 
-## Tempo[​](https://manuale.doemploy.app/configurazione-lavoratore/elementi-contrattuali#tempo)
+## Tempo
 
 Se scegli l'opzione a tempo determinato, dovrai indicare la data di fine rapporto lavorativo. I contratti a tempo determinato prevedono contributi più elevati.
 
 Anche se opti per un contratto determinato, l'utilizzo dell'app sarà illimitato; avrai la possibilità di modificarlo in qualsiasi momento a un contratto indeterminato.
 
-## Tipo di contratto[​](https://manuale.doemploy.app/configurazione-lavoratore/elementi-contrattuali#tipo-di-contratto) <a href="#tipo-di-contratto" id="tipo-di-contratto"></a>
+## Tipo di contratto
 
 * L'opzione **Non Convivente** si applica ai rapporti di lavoro in cui il lavoratore non risiede presso il datore di lavoro. Questa modalità prevede, di norma, una retribuzione oraria.
 * Nei contratti **Convivente**, il lavoratore risiede presso il datore di lavoro e la retribuzione è generalmente stabilita su base mensile. Inoltre, è previsto un compenso aggiuntivo sotto forma di indennità sostitutiva per vitto e alloggio, salvo il caso in cui questi vengano forniti direttamente dal datore di lavoro.
