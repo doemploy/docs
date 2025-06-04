@@ -32,7 +32,7 @@ Anche se opti per un contratto determinato, l'utilizzo dell'app sarà illimitato
 * L'opzione **Non Convivente** si applica ai rapporti di lavoro in cui il lavoratore non risiede presso il datore di lavoro. Questa modalità prevede, di norma, una retribuzione oraria.
 * Nei contratti **Convivente**, il lavoratore risiede presso il datore di lavoro e la retribuzione è generalmente stabilita su base mensile. Inoltre, è previsto un compenso aggiuntivo sotto forma di indennità sostitutiva per vitto e alloggio, salvo il caso in cui questi vengano forniti direttamente dal datore di lavoro.
 
-## Livello di inquadramento[​](https://manuale.doemploy.app/configurazione-lavoratore/elementi-contrattuali#livello-di-inquadramento) <a href="#livello-di-inquadramento" id="livello-di-inquadramento"></a>
+## Livello di inquadramento
 
 Conformemente al CCNL, ogni lavoratore domestico deve essere assegnato a un livello di inquadramento. Tale livello considera le competenze del lavoratore e le relative mansioni.
 

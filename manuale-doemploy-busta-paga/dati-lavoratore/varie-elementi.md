@@ -30,7 +30,7 @@ Nel caso in cui le ferie siano **calcolate in giorni**, il totale annuale sarà 
 
 [Consulta la guida completa sulle ferie qui](../eventi/ferie.md)
 
-## Calcolare il T.F.R. <a href="#calcolare-il-tfr" id="calcolare-il-tfr"></a>
+## Calcolare il T.F.R.
 
 Se questa opzione è attivata, il TFR sarà calcolato e inserito in una sezione dedicata del cedolino paga.
 
