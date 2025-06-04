@@ -15,7 +15,7 @@ icon: file-signature
 {% endtab %}
 {% endtabs %}
 
-## Data di assunzione[​](https://manuale.doemploy.app/configurazione-lavoratore/elementi-contrattuali#data-di-assunzione) <a href="#data-di-assunzione" id="data-di-assunzione"></a>
+## Data di assunzione​ <a href="#data-di-assunzione" id="data-di-assunzione"></a>
 
 È fondamentale inserire con precisione la data di assunzione, poiché sarà utilizzata nella generazione della prima busta paga e tutti i calendari presenti nell'app useranno questa data come punto di partenza.
 
