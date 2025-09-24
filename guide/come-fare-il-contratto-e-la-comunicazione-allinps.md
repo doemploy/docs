@@ -28,7 +28,7 @@ Per effettuare la comunicazione autonomamente, è necessario disporre di **SPID*
 ### Metodo 1: Tramite l'app mobile&#x20;
 
 1. Scarica l’app **INPS Mobile** da [**Google Play**](https://play.google.com/store/apps/details?id=it.inps.mobile.app.servizi.activity\&hl=it) (per dispositivi Android) o da [**App Store**](https://apps.apple.com/it/app/inps-mobile/id433400878) (per dispositivi iPhone)
-2. Accedi con **SPID** o **CEI**.
+2. Accedi con **SPID** o **CIE**.
 3. Dal menu, clicca su **Servizi**.
 4. Seleziona **Lavoro Domestico**.
 5. Clicca su **Assunzione lavoratore domestico**.
@@ -38,7 +38,7 @@ Per effettuare la comunicazione autonomamente, è necessario disporre di **SPID*
 
 1. Vai alla pagina [Formalizzare l'assunzione di un lavoratore domestico](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.formalizzare-l-assunzione-di-un-lavoratore-domestico.html).
 2. Clicca su **Utilizza il servizio**.
-3. Accedi con **SPID** o **CEI**.
+3. Accedi con **SPID** o **CIE**.
 4. Clicca su **Iscrizione rapporto di lavoro**.
 5. Compila il modulo con i dati richiesti e procedi con l’invio.
 
